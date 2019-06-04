@@ -1,0 +1,14 @@
+{
+  "name": "npmgram",
+  "version": "1.1.0",
+  "description": "npm image filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "npmgram"
+  },
+  "author": "Adriel Zarate <adrielzarate@gmail.com> (http://adrielzarate.com.ar)",
+  "license": "ISC",
+  "dependencies": {
+    "pureimage": "^0.1.6"
+  }
+}
